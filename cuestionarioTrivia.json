@@ -1,0 +1,452 @@
+[
+    {
+        "categoria": "Ferrari",
+        "dificultad": 1,
+        "pregunta": "¿Quién fue el fundador de la escudería Ferrari?",
+        "opcion_a": "Enzo Ferrari",
+        "opcion_b": "Ferruccio Lamborghini",
+        "opcion_c": "Ettore Bugatti",
+        "opcion_d": "Horacio Pagani",
+        "respuesta_correcta": "A"
+    },
+    {
+        "categoria": "Ferrari",
+        "dificultad": 1,
+        "pregunta": "¿Cuál es el logo icónico de Ferrari?",
+        "opcion_a": "Un toro enfurecido",
+        "opcion_b": "Un tridente",
+        "opcion_c": "El Cavallino Rampante",
+        "opcion_d": "Una serpiente",
+        "respuesta_correcta": "C"
+    },
+    {
+        "categoria": "Ferrari",
+        "dificultad": 2,
+        "pregunta": "¿Qué piloto ganó 5 campeonatos mundiales consecutivos con Ferrari entre 2000 y 2004?",
+        "opcion_a": "Fernando Alonso",
+        "opcion_b": "Michael Schumacher",
+        "opcion_c": "Niki Lauda",
+        "opcion_d": "Kimi Räikkönen",
+        "respuesta_correcta": "B"
+    },
+    {
+        "categoria": "Ferrari",
+        "dificultad": 3,
+        "pregunta": "¿Cuál fue el primer modelo de automóvil producido bajo la marca Ferrari en 1947?",
+        "opcion_a": "250 GTO",
+        "opcion_b": "Testarossa",
+        "opcion_c": "F40",
+        "opcion_d": "125 S",
+        "respuesta_correcta": "D"
+    },
+    {
+        "categoria": "Ferrari",
+        "dificultad": 1,
+        "pregunta": "¿Qué color fue asignado tradicionalmente a los autos de carrera italianos, adoptado históricamente por Ferrari?",
+        "opcion_a": "Rosso Corsa",
+        "opcion_b": "Giallo Modena",
+        "opcion_c": "Verde Pino",
+        "opcion_d": "Bianco Avus",
+        "respuesta_correcta": "A"
+    },
+    {
+        "categoria": "WRC",
+        "dificultad": 2,
+        "pregunta": "¿Qué marca dominó el Campeonato Mundial de Rally (WRC) a finales de los 90 con el modelo Lancer Evolution?",
+        "opcion_a": "Subaru",
+        "opcion_b": "Mitsubishi",
+        "opcion_c": "Ford",
+        "opcion_d": "Toyota",
+        "respuesta_correcta": "B"
+    },
+    {
+        "categoria": "WRC",
+        "dificultad": 2,
+        "pregunta": "¿Quién es el piloto con más campeonatos mundiales (9) en la historia del WRC?",
+        "opcion_a": "Sébastien Ogier",
+        "opcion_b": "Carlos Sainz",
+        "opcion_c": "Sébastien Loeb",
+        "opcion_d": "Tommi Mäkinen",
+        "respuesta_correcta": "C"
+    },
+    {
+        "categoria": "WRC",
+        "dificultad": 3,
+        "pregunta": "¿Qué legendario auto del Grupo B fue introducido por Audi revolucionando la categoría con su tracción integral?",
+        "opcion_a": "Quattro",
+        "opcion_b": "Delta S4",
+        "opcion_c": "205 T16",
+        "opcion_d": "Stratos",
+        "respuesta_correcta": "A"
+    },
+    {
+        "categoria": "WRC",
+        "dificultad": 1,
+        "pregunta": "¿Qué equipo popularizó la mítica combinación de pintura azul con llantas doradas en los rallys?",
+        "opcion_a": "Peugeot",
+        "opcion_b": "Hyundai",
+        "opcion_c": "Lancia",
+        "opcion_d": "Subaru",
+        "respuesta_correcta": "D"
+    },
+    {
+        "categoria": "WRC",
+        "dificultad": 3,
+        "pregunta": "¿Cuál fue el primer fabricante en ganar el campeonato de constructores del WRC en su temporada inaugural en 1973?",
+        "opcion_a": "Fiat",
+        "opcion_b": "Alpine-Renault",
+        "opcion_c": "Porsche",
+        "opcion_d": "Ford",
+        "respuesta_correcta": "B"
+    },
+    {
+        "categoria": "Fast & Furious",
+        "dificultad": 1,
+        "pregunta": "¿Qué auto conduce Brian O'Conner en su primera carrera callejera contra Dominic Toretto?",
+        "opcion_a": "Mitsubishi Eclipse",
+        "opcion_b": "Toyota Supra",
+        "opcion_c": "Nissan Skyline",
+        "opcion_d": "Honda Civic",
+        "respuesta_correcta": "A"
+    },
+    {
+        "categoria": "Fast & Furious",
+        "dificultad": 2,
+        "pregunta": "¿Qué ordenaba siempre Brian O'Conner en el restaurante de Mia Toretto?",
+        "opcion_a": "Hamburguesa con queso",
+        "opcion_b": "Papas fritas y refresco",
+        "opcion_c": "Sándwich de atún sin corteza",
+        "opcion_d": "Ensalada César",
+        "respuesta_correcta": "C"
+    },
+    {
+        "categoria": "Fast & Furious",
+        "dificultad": 1,
+        "pregunta": "¿Cuál es el icónico 'auto de 10 segundos' que Dominic Toretto guarda en su garaje y le tiene miedo?",
+        "opcion_a": "Chevrolet Chevelle SS 1970",
+        "opcion_b": "Dodge Charger R/T 1970",
+        "opcion_c": "Ford Mustang Boss 1969",
+        "opcion_d": "Plymouth Barracuda 1970",
+        "respuesta_correcta": "B"
+    },
+    {
+        "categoria": "Fast & Furious",
+        "dificultad": 2,
+        "pregunta": "¿Qué vehículo encuentran destruido y luego restauran Brian y Dom en el taller para saldar la deuda del auto destruido?",
+        "opcion_a": "Mazda RX-7",
+        "opcion_b": "Nissan Silvia",
+        "opcion_c": "Honda S2000",
+        "opcion_d": "Toyota Supra",
+        "respuesta_correcta": "D"
+    },
+    {
+        "categoria": "Fast & Furious",
+        "dificultad": 3,
+        "pregunta": "¿Qué modelo de auto pierde Jesse en la carrera por el título de propiedad contra Johnny Tran?",
+        "opcion_a": "Volkswagen Jetta",
+        "opcion_b": "Honda Civic",
+        "opcion_c": "Acura Integra",
+        "opcion_d": "Mitsubishi 3000GT",
+        "respuesta_correcta": "A"
+    },
+    {
+        "categoria": "Clasicos Argentinos",
+        "dificultad": 1,
+        "pregunta": "¿Qué modelo es considerado 'El auto argentino' por excelencia, fabricado por IKA?",
+        "opcion_a": "Ford Falcon",
+        "opcion_b": "Chevrolet Chevy",
+        "opcion_c": "Torino",
+        "opcion_d": "Dodge Polara",
+        "respuesta_correcta": "C"
+    },
+    {
+        "categoria": "Clasicos Argentinos",
+        "dificultad": 2,
+        "pregunta": "¿Qué modelo de Fiat popularizó en Argentina la resistente motorización 'Tipo' 1.4 y 1.6 durante los años 90?",
+        "opcion_a": "Fiat 147",
+        "opcion_b": "Fiat Uno",
+        "opcion_c": "Fiat Duna",
+        "opcion_d": "Fiat Palio",
+        "respuesta_correcta": "B"
+    },
+    {
+        "categoria": "Clasicos Argentinos",
+        "dificultad": 2,
+        "pregunta": "¿Qué sedán de origen francés, conocido por su robustez, fue el clásico taxi porteño durante décadas?",
+        "opcion_a": "Renault 12",
+        "opcion_b": "Peugeot 504",
+        "opcion_c": "Citroën 3CV",
+        "opcion_d": "Peugeot 405",
+        "respuesta_correcta": "B"
+    },
+    {
+        "categoria": "Clasicos Argentinos",
+        "dificultad": 3,
+        "pregunta": "¿En qué mítico circuito europeo logró una hazaña histórica el equipo argentino con la Misión Argentina de los Torino en 1969?",
+        "opcion_a": "Nürburgring",
+        "opcion_b": "Le Mans",
+        "opcion_c": "Monza",
+        "opcion_d": "Spa-Francorchamps",
+        "respuesta_correcta": "A"
+    },
+    {
+        "categoria": "Clasicos Argentinos",
+        "dificultad": 1,
+        "pregunta": "¿Qué histórico vehículo utilitario de Ford se convirtió en un símbolo irrompible del campo argentino?",
+        "opcion_a": "Ford Ranger",
+        "opcion_b": "Ford Bronco",
+        "opcion_c": "Ford Courier",
+        "opcion_d": "Ford F-100",
+        "respuesta_correcta": "D"
+    },
+    {
+        "categoria": "Spoon Sports",
+        "dificultad": 1,
+        "pregunta": "¿De qué marca de automóviles es especialista exclusivo el preparador japonés Spoon Sports?",
+        "opcion_a": "Honda",
+        "opcion_b": "Toyota",
+        "opcion_c": "Nissan",
+        "opcion_d": "Mazda",
+        "respuesta_correcta": "A"
+    },
+    {
+        "categoria": "Spoon Sports",
+        "dificultad": 1,
+        "pregunta": "¿Cuál es la combinación de colores característica de los autos de carrera oficiales de Spoon Sports?",
+        "opcion_a": "Rojo y Blanco",
+        "opcion_b": "Negro y Gris",
+        "opcion_c": "Amarillo y Azul",
+        "opcion_d": "Verde y Naranja",
+        "respuesta_correcta": "C"
+    },
+    {
+        "categoria": "Spoon Sports",
+        "dificultad": 3,
+        "pregunta": "¿Quién es el piloto y fundador de la legendaria marca Spoon Sports?",
+        "opcion_a": "Keiichi Tsuchiya",
+        "opcion_b": "Tatsuru Ichishima",
+        "opcion_c": "Akio Toyoda",
+        "opcion_d": "Smokey Nagata",
+        "respuesta_correcta": "B"
+    },
+    {
+        "categoria": "Spoon Sports",
+        "dificultad": 2,
+        "pregunta": "¿Qué animal representa el logo de Spoon Sports?",
+        "opcion_a": "Un tigre",
+        "opcion_b": "Un halcón",
+        "opcion_c": "Un pez koi",
+        "opcion_d": "Una grulla",
+        "respuesta_correcta": "D"
+    },
+    {
+        "categoria": "Spoon Sports",
+        "dificultad": 3,
+        "pregunta": "¿A cuántas RPM máximas es famoso por girar el límite del motor del Honda S2000 modificado por Spoon?",
+        "opcion_a": "11,000 RPM",
+        "opcion_b": "9,000 RPM",
+        "opcion_c": "8,500 RPM",
+        "opcion_d": "12,500 RPM",
+        "respuesta_correcta": "A"
+    },
+    {
+        "categoria": "Initial D",
+        "dificultad": 1,
+        "pregunta": "¿Qué modelo de auto conduce el protagonista Takumi Fujiwara?",
+        "opcion_a": "Nissan Silvia S13",
+        "opcion_b": "Toyota Sprinter Trueno AE86",
+        "opcion_c": "Mazda RX-7",
+        "opcion_d": "Honda Civic Type R",
+        "respuesta_correcta": "B"
+    },
+    {
+        "categoria": "Initial D",
+        "dificultad": 2,
+        "pregunta": "¿En qué montaña realiza Takumi Fujiwara sus entregas matutinas y las carreras iniciales?",
+        "opcion_a": "Monte Fuji",
+        "opcion_b": "Monte Myogi",
+        "opcion_c": "Monte Akina",
+        "opcion_d": "Monte Akagi",
+        "respuesta_correcta": "C"
+    },
+    {
+        "categoria": "Initial D",
+        "dificultad": 1,
+        "pregunta": "¿Qué negocio familiar tiene el padre de Takumi, Bunta Fujiwara?",
+        "opcion_a": "Una tienda de tofu",
+        "opcion_b": "Un taller mecánico",
+        "opcion_c": "Una gasolinera",
+        "opcion_d": "Un restaurante de ramen",
+        "respuesta_correcta": "A"
+    },
+    {
+        "categoria": "Initial D",
+        "dificultad": 2,
+        "pregunta": "¿Qué modelo de automóvil conduce Keisuke Takahashi del equipo Akagi RedSuns?",
+        "opcion_a": "Nissan Skyline GT-R R32",
+        "opcion_b": "Mitsubishi Lancer Evo III",
+        "opcion_c": "Mazda Savanna RX-7 FC3S",
+        "opcion_d": "Mazda RX-7 FD3S",
+        "respuesta_correcta": "D"
+    },
+    {
+        "categoria": "Initial D",
+        "dificultad": 3,
+        "pregunta": "¿Qué precaución pone Bunta en el portavasos del AE86 para entrenar la suavidad de manejo de Takumi?",
+        "opcion_a": "Un vaso de agua que no debe derramarse",
+        "opcion_b": "Un huevo crudo",
+        "opcion_c": "Una taza de café caliente",
+        "opcion_d": "Un bloque de tofu frágil",
+        "respuesta_correcta": "A"
+    },
+    {
+        "categoria": "Enfierrados",
+        "dificultad": 2,
+        "pregunta": "¿Qué componente en un vehículo turboalimentado se encarga de enfriar el aire comprimido antes de ingresar al motor?",
+        "opcion_a": "Radiador",
+        "opcion_b": "Wastegate",
+        "opcion_c": "Intercooler",
+        "opcion_d": "Blow-off valve",
+        "respuesta_correcta": "C"
+    },
+    {
+        "categoria": "Enfierrados",
+        "dificultad": 2,
+        "pregunta": "¿Qué significa exactamente que un motor esté 'forjado'?",
+        "opcion_a": "Que el block fue fundido en aluminio",
+        "opcion_b": "Que tiene pistones y bielas reforzadas fabricadas mediante forja",
+        "opcion_c": "Que el escape no tiene silenciadores",
+        "opcion_d": "Que el motor fue rectificado a sobremedida",
+        "respuesta_correcta": "B"
+    },
+    {
+        "categoria": "Enfierrados",
+        "dificultad": 1,
+        "pregunta": "¿En el mundo de las picadas (arrancadas), qué compuesto químico se inyecta para obtener un aumento de potencia masivo e instantáneo?",
+        "opcion_a": "Óxido Nitroso",
+        "opcion_b": "Metanol puro",
+        "opcion_c": "Nitrógeno líquido",
+        "opcion_d": "Queroseno",
+        "respuesta_correcta": "A"
+    },
+    {
+        "categoria": "Enfierrados",
+        "dificultad": 1,
+        "pregunta": "¿Cómo se llama el tipo de neumático utilizado exclusivamente en picadas por carecer de dibujo y ofrecer máxima adherencia?",
+        "opcion_a": "Run-flat",
+        "opcion_b": "All-terrain",
+        "opcion_c": "Radial",
+        "opcion_d": "Slick",
+        "respuesta_correcta": "D"
+    },
+    {
+        "categoria": "Enfierrados",
+        "dificultad": 3,
+        "pregunta": "¿Qué elemento mecánico se suele 'cruzar' o modificar para alterar los tiempos de apertura de válvulas y ganar potencia en altas RPM?",
+        "opcion_a": "Árbol de levas",
+        "opcion_b": "Cigüeñal",
+        "opcion_c": "Volante motor",
+        "opcion_d": "Cuerpo de mariposa",
+        "respuesta_correcta": "A"
+    },
+    {
+        "categoria": "F1",
+        "dificultad": 1,
+        "pregunta": "¿Qué piloto comparte con Michael Schumacher el récord histórico de 7 campeonatos mundiales de Fórmula 1?",
+        "opcion_a": "Ayrton Senna",
+        "opcion_b": "Lewis Hamilton",
+        "opcion_c": "Sebastian Vettel",
+        "opcion_d": "Alain Prost",
+        "respuesta_correcta": "B"
+    },
+    {
+        "categoria": "F1",
+        "dificultad": 2,
+        "pregunta": "¿Qué legendario piloto argentino fue quíntuple campeón del mundo de Fórmula 1 en la década de 1950?",
+        "opcion_a": "Carlos Reutemann",
+        "opcion_b": "José Froilán González",
+        "opcion_c": "Juan Manuel Fangio",
+        "opcion_d": "Oscar Alfredo Gálvez",
+        "respuesta_correcta": "C"
+    },
+    {
+        "categoria": "F1",
+        "dificultad": 2,
+        "pregunta": "¿Con qué icónica escudería ganó sus tres campeonatos mundiales el brasileño Ayrton Senna?",
+        "opcion_a": "McLaren",
+        "opcion_b": "Ferrari",
+        "opcion_c": "Williams",
+        "opcion_d": "Lotus",
+        "respuesta_correcta": "A"
+    },
+    {
+        "categoria": "F1",
+        "dificultad": 1,
+        "pregunta": "¿Qué escudería posee el récord absoluto de más campeonatos de constructores en la historia de la F1?",
+        "opcion_a": "Mercedes",
+        "opcion_b": "Red Bull Racing",
+        "opcion_c": "Williams",
+        "opcion_d": "Ferrari",
+        "respuesta_correcta": "D"
+    },
+    {
+        "categoria": "F1",
+        "dificultad": 2,
+        "pregunta": "¿Quién se coronó campeón mundial de Fórmula 1 en la dramática última vuelta del Gran Premio de Abu Dabi 2021?",
+        "opcion_a": "Charles Leclerc",
+        "opcion_b": "Max Verstappen",
+        "opcion_c": "Lewis Hamilton",
+        "opcion_d": "Fernando Alonso",
+        "respuesta_correcta": "B"
+    },
+    {
+        "categoria": "Porsche",
+        "dificultad": 1,
+        "pregunta": "¿Cuál es el modelo de automóvil deportivo más famoso de Porsche, reconocible por su configuración de motor trasero plano?",
+        "opcion_a": "911",
+        "opcion_b": "Cayman",
+        "opcion_c": "Panamera",
+        "opcion_d": "Macan",
+        "respuesta_correcta": "A"
+    },
+    {
+        "categoria": "Porsche",
+        "dificultad": 2,
+        "pregunta": "¿Qué mítica competencia de resistencia europea ha ganado Porsche más veces que cualquier otra marca automotriz?",
+        "opcion_a": "24 Horas de Nürburgring",
+        "opcion_b": "1000 km de Spa",
+        "opcion_c": "24 Horas de Le Mans",
+        "opcion_d": "Mille Miglia",
+        "respuesta_correcta": "C"
+    },
+    {
+        "categoria": "Porsche",
+        "dificultad": 3,
+        "pregunta": "¿Cuál es el nombre del revolucionario hypercar híbrido enchufable que Porsche presentó en 2013?",
+        "opcion_a": "Carrera GT",
+        "opcion_b": "918 Spyder",
+        "opcion_c": "959",
+        "opcion_d": "Taycan Turbo S",
+        "respuesta_correcta": "B"
+    },
+    {
+        "categoria": "Porsche",
+        "dificultad": 2,
+        "pregunta": "¿En qué ciudad de Alemania se encuentra la sede central y fábrica principal histórica de Porsche?",
+        "opcion_a": "Múnich",
+        "opcion_b": "Wolfsburg",
+        "opcion_c": "Ingolstadt",
+        "opcion_d": "Stuttgart",
+        "respuesta_correcta": "D"
+    },
+    {
+        "categoria": "Porsche",
+        "dificultad": 3,
+        "pregunta": "¿Cuál fue el primer modelo de automóvil deportivo de producción fabricado por la empresa Porsche en 1948?",
+        "opcion_a": "356",
+        "opcion_b": "550 Spyder",
+        "opcion_c": "912",
+        "opcion_d": "914",
+        "respuesta_correcta": "A"
+    }
+]

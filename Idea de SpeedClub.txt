@@ -1,0 +1,72 @@
+
+"SPEED CLUB"
+
+Es una pagina web donde hay que registrarse con mail y contraseña, sumado una autenticacion.
+Una vez dentro visualizamos una pagina web, con un menú superior con 5 opciones "Album" , "Sobres", "Figuritas", "Trivia" y "Perfil".
+
+Esta pagina web es basicamente lo siguiente: Un proyecto donde el creador (Yo y mi equipo) creamos Albuums digitales con temáticas de coches.
+
+En el apartado Album, es donde el usuario podria seleccionar el album que quiere completar (en primer instancia solo La primera ediciion el primer lanzamiento),
+
+Una vez que selecciona el album, el album deberia mostrar su portada de manera grande y perfecta, con un vehiculo acercandose a la pantalla y frenando en la portada emitiendo el sonido de su motor rugiendo.
+
+Una vez visualizada la portada el album deberia abrirse, mostrando la primer página del album, aquí es donde se encuentra el "índice". El índice es el apartado para las figuritas legendarias del Album.
+
+En el índice es donde el usuario, visulizará todas las temáticas que contiene el album y se le explicará mediante un mensaje la funcionalidad del indice. (Todas y cada una de las figuritas del índice será la figurita "legendaria" a consiguir, para conseguir una legendaria, el jugador debe completar una página completa de una temática del album, de esta manera adquiere la figurita legendaria de esa temática para pegarla en el índice)
+
+Luego de mostrar el índice y exlpicar como funciona el sistema de las legendarias, el usuario podrá continuar pasando paginas, viendo las diferentes temáticas que contiene el album, con los espacios para "pegar" cada figurita de cada temática, con su rareza (En las paginas de las temáticas, solamente 2 existen tipos de rareza en las figuritas las cuales solamente se consiguen en SOBRES. "Común" y "Épico" estas son las rarezas de las cartas que van a ser "pegadas" en las paginas de las temáticas del album.)
+ 
+Una vez visualizado el album con los epsacios vacios para completar con las figuritas, el usuario debería ir al apartado del menú "Sobres" donde obtendrá su recompensa por registrarse (3 Sobres de figuritas y 600 créditos o tuercas en este caso). 
+
+Los sobres van a ser 2. Los sobres "Comunes" y los sobres "Premium":
+						Los sobres COMUNES - El precio de cada sobre Comun es de 100 creditos/tuercas- Dentro contienen 4 figuritas aleatorias de todas las temátias, con las siguientes probabilidades= 2 figuritas obligatoriamente 100% comunes - 1 figurita 75% probabilidad común y 25% Épica-  y la ultima 1 figurita 50% común y 50% Épica.
+						Los sobres "Premium" - El precio de cada sobre Premium es de 500 créditos/tuercas - Dentro contienen 4 figuritas aleatorias de todas las temátias, pero con otras probabilidades = 1 Figurita obligatoriamente 100% comun - 1 Figurita obligatoriamente 100% Épica - 2 figuritas 50% probabilidad común y 50% probabilidad Epica.
+				De esta manera el jugador siempre va a querer abrir un sobre Premium ya que este le asegura una figurita Épica la cual puede llegar a pegar en el album o si es una figurita epica pero repetida, puede ir al menú "Figuritas", visulizarla como que tiene 2 de esta misma (la pegada en el album y la repetida de los sobres). El usuario debe tener la opción de "Quemar figuritas" donde quemaría las figuritas repetidas y obtendria creditos/tuercas a cambio para comprar sobres y obtener mas figuritas.
+ 
+Al recibir la recompensa el usuario podrá abrir los sobres que obtuvo. Ya que obtiene 3 sobres de regalo "comunes" y le deberian aparecer como 3 sobres gratis para abrir, una vez abiertos los sobres de regalo, estos pasan a costar sus 100 creditos durante todo el juego.
+
+El sistema de economia del juego será el siguiente:
+		El usuario debrá ir al apartado "Trivia" en el menú, donde verá las trivias disponibles para realizar.
+		Al principio solo podrá seleccionar la trivia "Primera edición", la cual desarrollará el sistema de trivia: 3 preguntas aleatorias de cualquiera de las temáticas que componen el album de primera edición.
+																Las tres preguntas serán de multiple seleccion es decir tendrá que seleccionar la respuesta correcta dentro de las opciones dadas y el tiempo de respuesta (3/4 opciones posibles, 1 sola correcta y 15 segundos para responder)
+																Si el usuario responde solo 1/3 preguntas corrctamente se gana 25 creditos/tuercas.
+																Si el usuario responde solo 2/3 preguntas corrctamente se gana 75 creditos/tuercas.
+																Si el usuario responde 3/3 preguntas corrctamente se gana 100 creditos/tuercas.	(equivalente a un sobre comun).
+
+		Mas adelante cuando el juego con el primer lanzamiento, los primeros sobres y todo el sistema funcione correctamente, Podremos crear mas Albuns con nuevas temáticas, diferentes a las de la primera edicion, con nuevas figuritas, nuevos sobres para cada uno de los albunes, sobres comun y premium para la primera edicion y sobres comun y premium para la nueva edicion, y asi con mas ideas, mas albums y mas tematicas.
+
+
+La idea de los albums es que sean atractivos visualmente, que el fondo de cada pagina(temática) sea original y orientado a la misma, que las figuritas tengan brillo, relive, hovers y que la pagina completa tenga dinamismo.
+
+Si se pueden agregar videos que se activen mediante un hover en las paginas(temáticas) de coches con el motor rugiendo, escenas de peliculas famosas orientadas a las tematicas como rapidos y furiosos o Initial-D o Ferrari la pelicula, Agente 007 y todos sus vehiculos, etc.
+
+La apertura de sobres debe ser super atractiva visualmente, el sobre debe girar 360° y ser cortados con un brillo automatico al ser comprado por el usuario y mostrar las 4 figuritas (una encima de la otra, la primera siempre siendo las comunes y al final las mejores Epicas) Al verlas una encima de la otra y dadas vuelta, el usuario selecciona una por una para irlas revelando y contener mas emocion, de la revelacion de cada una de las figuritas. Estas automaticamente van al "Mis Figuritas" y se almacenan ahi como obtenidas y si estan repetidas con sus cantidades arriba (2, 3, 5) para que el usuario decida quemarlas.
+			Ambos sobres se abriran de la misma manera.
+			Serán super atractivos ambos sobres pero el Premium será mas atractivo y mas llamativo para desear comprarlo.
+
+Por ultimo el apartado "Perfil" en el menú, donde el usuario tendra sus datos personales cargados ("Apodo"ya que es el speed club, "mail","Autenitcado"1) y la opcion de "Cerrar Sesion" para poder loguearse con otro mail y contraseña o registrarse nuevamente.
+
+El usuario obtendrá 1 sobre comun de recompensa por ingresar al juego cada dia, durante los primeros 4 dias continuos se le regala 1 sobre.
+El quinto dia continuo ingresando y jugando, se le regalan 500 creditos	para poder abrir un sobre premium o 5 comunes.
+
+Una vez completado el album de figuritas, es decir cuando el usuario adquiere y "pega" todas las figuritas, de todas las tematicas del album y "pega la ultima Legendaria del album", Obtendrá una recompensa de 600 creditos/tuercas, un mensaje de Album completado y el mismo album será un coleccionable con el cartel de completado en todas sus paginas.
+					En ese mismo momento que el usuario adquiere la recompensa y los mensaje s de felicitaciones y el album como coleccionable, Se desbloquearían nuevos albums para seguir abriendo sobres y completando los nuevos albums con figuritas y tematicas nuevas.
+
+De esta manera el usuario seguirá jugando pero con nuevos sobres para abrir orientados al nuevo album y con figuritas de las nuevas tematicas.
+									
+El pasaje de paginas dentro de un album deben ser super fluidos, intuitivos y agradables a la vista. Me gustarian que sea el movimiento de pasar de pagina como un cuento o una revista.
+
+Cada uno de las figuritas será diseñada y seleccionada especialmente, para ser "Comun", "Epica" y "Legendaria" para cada una de las tematicas y albums.
+Cada figurita tendra un numero y una asignacion dentro del album para poder pegarla es su lugar correctamente. la figurita 10 en el lugar 10 de ese album, La figurita 23 en el lugar 23 del album y asi con cada una.
+Cada figurita será la imagen de un vehiculo, con su modelo, su rareza y su numero de figurita. 
+Las figuritas al almacenarce en el apartado "Mis figuritas" se veran cada una de las figuritas obtenidas, filtradas por su rareza, desde legendarias hasta comunes, con el numero de la Cantidad de repetidas que tien e usuario de esas figuritas, de esta manera las podra seleccionar y quemar repetidas.
+						En mis figuritas el usuario podra tocar una fir¿gurita y visualizarla en pantalla completa para poder apreciarla por separado.
+
+
+En el Album el usuario podra disfrutar de los fondos, videos, sonidos y hovers que tendrá cada una de las figuritas y las tematicas.
+
+
+"Pegar":
+En el album el usuario deberá seleccionar el espacio de una figurita por ejemplo el esapcio 23 del album y si el usuario tiene la figurita 23 de este album obtenida en los sobres, se le brindará la opcion de "Pegar" figurita ya que al obtener una sola figurita (desbloquearla) pero no tener repetidas, solo podrá pegarla en el album ya que la primer figurita desbloqueda solo será para pegarla en el album, esta NO se podrá quemar. Solamente se pueden quemar la figurita que tenga 2 o mas veces y decides cuantas quemar de las que tienes repetidas, la primera siempre se queda ya que es la pegada en el album.
+
+	
